@@ -12,63 +12,50 @@
 
 ## ⚡ About Me
 
-```csharp
-public class KhenderTorres
-{
-    public string Role => "Software Engineering Student";
-
-    public string[] Specialties =>
-    [
-        "Backend Development",
-        "Fullstack Development",
-        "Problem Solving",
-        "Automation",
-        "Team Leadership"
-    ];
-
-    public string[] Technologies =>
-    [
-        "Java",
-        "C#",
-        "ASP.NET",
-        "SQL Server",
-        "Docker",
-        "APIs"
-    ];
-
-    public string Philosophy =>
-        "True discipline comes from within.";
-}
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software%20Engineering%20Student-ff3b3b?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Fullstack-ff3b3b?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Work-Enlace%20TV-ff3b3b?style=for-the-badge&logo=tv&logoColor=white" />
+</p>
 
 I am passionate about building efficient, scalable, and organized solutions while continuously improving my technical and professional skills.  
 My focus is not only writing code, but also developing discipline, leadership, problem-solving abilities, and strong work ethics that can create long-term impact in software development environments.  
-Currently working as a Content Manager at Enlace TV, where responsibility, structure, and teamwork are part of my daily workflow.
+Currently working as a **Content Manager at Enlace TV**, where responsibility, structure, and teamwork are part of my daily workflow.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF3B3B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Current Goals
 
-- Deepen my knowledge in ASP.NET and backend architecture
-- Improve my understanding of scalable systems and APIs
-- Strengthen clean code and software engineering practices
-- Continue developing leadership and collaboration skills
-- Explore automation and artificial intelligence technologies
-
----
-
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET-Backend%20Architecture-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API%20Development-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Optimization-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Fundamentals-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Code-Best%20Practices-239120?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Exploration-FF3B3B?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
 ---
 
 ## 📌 Experience
 
 ### 💈 Barber Shop Management System
-
 Designed and developed a management-focused academic system centered on organization, customer handling, and operational efficiency.
 
 ### 💊 Pharmacy Management System
-
 Worked on a structured software project focused on backend logic, organization, and system workflow management.
 
 ---
@@ -93,5 +80,11 @@ I strongly believe that consistency, discipline, and commitment are the foundati
 
 ## 📫 Contact
 
-- 📧 [khenderandres03@outlook.com](mailto:khenderandres03@outlook.com)
-- 📧 [khenderandres02@gmail.com](mailto:khenderandres02@gmail.com)
+<p align="center">
+  <a href="mailto:khenderandres03@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-khenderandres03-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="mailto:khenderandres02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-khenderandres02-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
