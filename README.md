@@ -1,3 +1,4 @@
+````md id="elite-khender-readme"
 # Khender Torres 👨‍💻
 
 <p align="center">
@@ -39,7 +40,7 @@ public class KhenderTorres
     public string Philosophy =>
         "True discipline comes from within.";
 }
-
+````
 
 I am passionate about building efficient, scalable, and organized solutions while continuously improving my technical and professional skills.
 
@@ -117,3 +118,4 @@ I strongly believe that consistency, discipline, and commitment are the foundati
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:0066ff&height=120&section=footer"/>
 </p>
 ```
+****
